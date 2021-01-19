@@ -111,6 +111,11 @@ body {
 .what-we-do-title-list {
   list-style-type: none;
 }
+.what-we-do-image {
+  width: 370px;
+  height: 294px;
+  
+
 .ourteam {
   background: #f5f4fa;
 }
@@ -130,6 +135,11 @@ body {
 .ourteam-list {
   list-style-type: none;
 }
+.ourteam-image {
+width: 270px;
+height: 260px;
+}
+
 .ourleam-description {
   font-weight: normal;
   font-size: 16px;
